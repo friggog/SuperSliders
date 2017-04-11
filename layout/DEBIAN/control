@@ -1,0 +1,9 @@
+Package: me.chewitt.supersliders
+Name: SuperSliders
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Tap the number at the side of preference sliders to enter exact value.
+Maintainer: Charlie Hewitt
+Author: Charlie Hewitt <contact@chewitt.me>
+Section: Tweaks
